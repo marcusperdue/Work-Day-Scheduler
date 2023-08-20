@@ -1,4 +1,4 @@
-# Wor -Day Scheduler - Third-Party APIs Challenge
+# Work Day Scheduler - Third-Party APIs Challenge
 
 ## Description
 
@@ -24,7 +24,8 @@ The Work Day Scheduler has been deployed to GitHub Pages and is accessible onlin
 
 ## Visuals
 
-![Example Image](/assets/Screenshot%202023-08-20%20at%203.53.35%20PM.png)
+![Example Image](/assets/photos/Screenshot%202023-08-20%20at%203.53.35%20PM.png)
+![Example Gif](/assets/photos/05-third-party-apis-homework-demo.gif)
 
 ## Credits
 
