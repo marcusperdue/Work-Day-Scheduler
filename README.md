@@ -20,7 +20,7 @@
 
 ## Deployment
 
-The Work Day Scheduler has been deployed to GitHub Pages and is accessible online. You can experience the live website by visiting the following URL: [https://marcusperdue.github.io/Work-Day-Scheduler/](https://marcusperdue.github.io/javascript-quiz-project/)
+The Work Day Scheduler has been deployed to GitHub Pages and is accessible online. You can experience the live website by visiting the following URL: [https://marcusperdue.github.io/Work-Day-Scheduler/](https://marcusperdue.github.io/Work-Day-Scheduler/)
 
 ## Visuals
 
