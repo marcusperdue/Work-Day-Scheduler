@@ -25,16 +25,18 @@ $('.saveBtn').click(function(){
 
   var currentHour = dayjs().hour();
 
+  
   $('.time-block').each(function() {
     var blockHour = parseInt($(this).attr('id').split('-')[1]);
-
+  
     if (blockHour < currentHour) {
-      $(this).addClass('past').removeClass('present future');
+      $(this).removeClass('present future').addClass('past');
     } else if (blockHour === currentHour) {
-      $(this).addClass('present').removeClass('past future');
+      $(this).removeClass('past future').addClass('present');
     } else {
-      $(this).addClass('future').removeClass('past present');
+      $(this).removeClass('past present').addClass('future');
     }
+    console.log(blockHour)
   });
 
 
