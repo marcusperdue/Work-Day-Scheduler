@@ -36,7 +36,6 @@ $('.saveBtn').click(function(){
     } else {
       $(this).removeClass('past present').addClass('future');
     }
-    console.log(blockHour)
   });
 
 
